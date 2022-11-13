@@ -1,0 +1,67 @@
+body, html {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Bakbak One', cursive;
+    background-color: #CCCCCC;
+    
+}
+
+/*---------------------------------------Fontes--------------------------------*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&display=swap'); 
+/* font-family: 'Bakbak One', cursive; */
+
+
+
+
+
+
+
+/*---------------------------------------Container--------------------------------*/
+
+.container {
+    background-image: url(https://wallpaperaccess.com/full/1758197.jpg);
+    height: 1000px;
+}
+
+h1 {
+    background-color: rgb(104, 105, 105);
+    text-align: center;
+    font-size: 60px;
+}
+
+h1:hover {
+    background-color: rgb(171, 205, 50);
+}
+
+.Index {
+    background-color: rgb(97, 100, 97);
+    text-align: center;
+    margin-bottom: 50px;
+    border: solid 20px black;
+}
+
+
+.tabela {
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 75px;
+    margin-left: 175px;
+    background-image: url(https://papers.co/wallpaper/papers.co-sm27-blue-purple-color-blur-gradation-34-iphone6-plus-wallpaper.jpg);
+    height: 150px;
+    width: 500px;
+}
+
+th {
+    background-color: rgb(194, 189, 189);
+}
+
+th:hover {
+    background-color: yellow;
+}
+
+
+
+
